@@ -6,7 +6,7 @@ Nice to see you’re here to check out my coding work. This repository showcases
 I'm into building efficient solutions with a focus on clean code, scalability, and continuous learning. Here, you’ll find examples of my work ranging from algorithm optimization to full-stack web development. 
 
 You’ll also find some of my earlier, slightly rough-around-the-edges projects, like [![ot-harjoitustyo](https://img.shields.io/static/v1?label=&message=ot-harjoitustyo&color=000000&logo=github&logoColor=FFFFFF)](https://github.com/sampsaoinonen/ot-harjoitustyo), as well as more recent work, such as [![TiRa-RouteOptimizer](https://img.shields.io/static/v1?label=&message=TiRa-RouteOptimizer&color=000000&logo=github&logoColor=FFFFFF)](https://github.com/sampsaoinonen/TiRa-RouteOptimizer), which I believe shows a noticeable improvement in both quality and technical depth. 
-
+___
 ### 📌 Pinned Projects
 
 Here are some of my highlighted projects:
@@ -28,8 +28,8 @@ Here are some of my highlighted projects:
 
 - ⚡ [**FullStackOpen-osa3**](https://github.com/sampsaoinonen/FullStackOpen-osa3)  
   JavaScript projects for backend development using Node.js.
-
-### 📂Here are my projects categorized by technology:
+___
+### Here are my projects categorized by technology:
 
 #### 🖥️ Languages & Databases
 | 💻 **Technology** | 🚀 **Projects** |
