@@ -12,7 +12,7 @@ ___
 Here are some of my highlighted projects:
 
 - 🔍 [**TiRa-RouteOptimizer**](https://github.com/sampsaoinonen/TiRa-RouteOptimizer)  
-  A navigation tool that compares A* and Fringe Search algorithms for efficient pathfinding on Helsinki’s street network.
+  A navigation tool that compares A* and Fringe Search algorithms for efficient pathfinding on Helsinki’s street network. The frontend is built with JavaScript, while Python handles the backend and core algorithms.
 ![Animated gif](https://github.com/sampsaoinonen/TiRa-RouteOptimizer/blob/main/documentation/images/using_the_app.gif?raw=true)
 
 - 🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
@@ -26,7 +26,7 @@ Here are some of my highlighted projects:
 
 - 🕹️ [**ot-harjoitustyo**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
   A Python-based Snake game built with the Pygame library.
-
+  
 	<img src="https://github.com/sampsaoinonen/ot-harjoitustyo/blob/master/dokumentaatio/aloitus.jpg?raw=true" width="220" height="150">
 
 - ⚡ [**FullStackOpen-osa3**](https://github.com/sampsaoinonen/FullStackOpen-osa3)  
