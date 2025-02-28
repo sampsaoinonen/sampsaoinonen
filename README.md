@@ -13,6 +13,7 @@ Here are some of my highlighted projects:
 
 - 🔍 [**TiRa-RouteOptimizer**](https://github.com/sampsaoinonen/TiRa-RouteOptimizer)  
   A navigation tool that compares A* and Fringe Search algorithms for efficient pathfinding on Helsinki’s street network.
+![Animated gif](https://github.com/sampsaoinonen/TiRa-RouteOptimizer/blob/main/documentation/images/using_the_app.gif?raw=true)
 
 - 🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
   Exercises and materials from the Full Stack Open course offered by the University of Helsinki.
@@ -21,10 +22,11 @@ Here are some of my highlighted projects:
   A web-based marketplace application built using Python, Flask, and PostgreSQL.
 
 - 📚 [**kurssiesitieto-ohtuprojekti**](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti)  
-  A comprehensive full-stack teamwork project using React, Node.js, and SQL.
+  A comprehensive full-stack 🔴 **teamwork** project using React, Node.js, and SQL.
 
 - 🕹️ [**ot-harjoitustyo**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
   A Python-based Snake game built with the Pygame library.
+  <img src="https://github.com/sampsaoinonen/ot-harjoitustyo/blob/master/dokumentaatio/aloitus.jpg?raw=true" width="300" height="200">
 
 - ⚡ [**FullStackOpen-osa3**](https://github.com/sampsaoinonen/FullStackOpen-osa3)  
   JavaScript projects for backend development using Node.js.
@@ -72,4 +74,3 @@ ___
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Algorithm Solving](https://img.shields.io/static/v1?label=&message=Algorithm%20Solving&color=FFA116&logo=Codeforces&logoColor=FFFFFF)](https://codeforces.com/) | [![TiRa-RouteOptimizer](https://img.shields.io/static/v1?label=&message=TiRa-RouteOptimizer&color=000000&logo=github&logoColor=FFFFFF)](https://github.com/sampsaoinonen/TiRa-RouteOptimizer) |
-
