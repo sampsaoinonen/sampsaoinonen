@@ -26,7 +26,8 @@ Here are some of my highlighted projects:
 
 - 🕹️ [**ot-harjoitustyo**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
   A Python-based Snake game built with the Pygame library.
-  <img src="https://github.com/sampsaoinonen/ot-harjoitustyo/blob/master/dokumentaatio/aloitus.jpg?raw=true" width="300" height="200">
+
+	<img src="https://github.com/sampsaoinonen/ot-harjoitustyo/blob/master/dokumentaatio/aloitus.jpg?raw=true" width="220" height="150">
 
 - ⚡ [**FullStackOpen-osa3**](https://github.com/sampsaoinonen/FullStackOpen-osa3)  
   JavaScript projects for backend development using Node.js.
