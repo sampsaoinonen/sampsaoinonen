@@ -13,7 +13,8 @@ Here are some of my highlighted projects:
 
 - 🔍 [**TiRa-RouteOptimizer**](https://github.com/sampsaoinonen/TiRa-RouteOptimizer)  
   A navigation tool that compares A* and Fringe Search algorithms for efficient pathfinding on Helsinki’s street network. The frontend is built with JavaScript, while Python handles the backend and core algorithms.
-![Animated gif](https://github.com/sampsaoinonen/TiRa-RouteOptimizer/blob/main/documentation/images/using_the_app.gif?raw=true)
+  
+	![Animated gif](https://github.com/sampsaoinonen/TiRa-RouteOptimizer/blob/main/documentation/images/using_the_app.gif?raw=true)
 
 - 🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
   Exercises and materials from the Full Stack Open course offered by the University of Helsinki.
