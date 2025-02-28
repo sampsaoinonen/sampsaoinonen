@@ -76,3 +76,12 @@ ___
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Algorithm Solving](https://img.shields.io/static/v1?label=&message=Algorithm%20Solving&color=FFA116&logo=Codeforces&logoColor=FFFFFF)](https://codeforces.com/) | [![TiRa-RouteOptimizer](https://img.shields.io/static/v1?label=&message=TiRa-RouteOptimizer&color=000000&logo=github&logoColor=FFFFFF)](https://github.com/sampsaoinonen/TiRa-RouteOptimizer) |
+
+
+---
+
+### 🎓 🎓 What I’m currently working on
+
+![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)
+![React Router](https://img.shields.io/static/v1?label=&message=React%20Router&color=CA4245&logo=reactrouter&logoColor=FFFFFF)
+![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine%20Learning%20Mathematics&color=F7931E&logo=python&logoColor=FFFFFF)
