@@ -22,7 +22,7 @@ Here are some of my highlighted projects:
 - 🛒 [**2 Many Gittars - Martketplace**](https://github.com/sampsaoinonen/tsoha-martketplace)  
   A **web-based marketplace** built with Python, Flask, and PostgreSQL. Users can post and browse ads, upload images, send messages, and interact via comments. The app features authentication, user profiles, and admin controls. It is deployed on **Heroku** [**Here**](https://tsoha-2manygittars-332c1b1f9ef8.herokuapp.com/) .
 
-	 ![Animated gif](https://github.com/sampsaoinonen/tsoha-martketplace/blob/main/screenshots/animated.gif?raw=true)
+	![Animated gif](https://github.com/sampsaoinonen/tsoha-martketplace/blob/main/screenshots/animated.gif?raw=true)
 
 - 📚 [**kurssiesitieto-ohtuprojekti**](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti)  
   A comprehensive full-stack 🔴 **teamwork** project using React, Node.js, and SQL.
