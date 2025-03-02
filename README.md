@@ -19,13 +19,15 @@ Here are some of my highlighted projects:
 - 🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
   Exercises and materials from the Full Stack Open course offered by the University of Helsinki.
 
-- 🛒 [**tsoha-martketplace**](https://github.com/sampsaoinonen/tsoha-martketplace)  
-  A web-based marketplace application built using Python, Flask, and PostgreSQL.
+- 🛒 [**2 Many Gittars - Martketplace**](https://github.com/sampsaoinonen/tsoha-martketplace)  
+  A **web-based marketplace** built with Python, Flask, and PostgreSQL. Users can post and browse ads, upload images, send messages, and interact via comments. The app features authentication, user profiles, and admin controls. It is deployed on **Heroku** [**Here**](https://tsoha-2manygittars-332c1b1f9ef8.herokuapp.com/) .
+
+	 ![Animated gif](https://github.com/sampsaoinonen/tsoha-martketplace/blob/main/screenshots/animated.gif?raw=true)
 
 - 📚 [**kurssiesitieto-ohtuprojekti**](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti)  
   A comprehensive full-stack 🔴 **teamwork** project using React, Node.js, and SQL.
 
-- 🕹️ [**ot-harjoitustyo**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
+- 🕹️ [**Jake The Snake - Game**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
   A Python-based Snake game built with the Pygame library.
   
 	<img src="https://github.com/sampsaoinonen/ot-harjoitustyo/blob/master/dokumentaatio/aloitus.jpg?raw=true" width="220" height="150">
@@ -84,4 +86,4 @@ ___
 
 ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)
 ![React Router](https://img.shields.io/static/v1?label=&message=React%20Router&color=CA4245&logo=reactrouter&logoColor=FFFFFF)
-![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine%20Learning%20Mathematics&color=F7931E&logo=python&logoColor=FFFFFF)
+![Machine Learning](https://img.shields.io/static/v1?label=&message=Matchematics%20For%20Machine%20Learning&color=F7931E&logo=python&logoColor=FFFFFF)
