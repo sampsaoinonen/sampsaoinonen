@@ -57,7 +57,7 @@ Here are some of my highlighted projects:
 
 		- [Commits I made](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti/commits?author=sampsaoinonen)
 
-		- [Completed tasks assigned to me](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti/issues?q=is:closed+assignee=sampsaoinonen)
+		- [Completed tasks assigned to me](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti/issues?q=is%3Aclosed+involves%3Asampsaoinonen)
 
 
 - 🕹️ [**Jake The Snake - Game**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
