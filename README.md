@@ -12,10 +12,25 @@ ___
 Here are some of my highlighted projects:
 
 - 🔍 [**TiRa-RouteOptimizer**](https://github.com/sampsaoinonen/TiRa-RouteOptimizer)  
-  A navigation tool that compares A* and Fringe Search algorithms for efficient pathfinding on Helsinki’s street network. The frontend is built with JavaScript, while Python handles the backend and core algorithms.
+  A navigation tool that compares A* and Fringe Search algorithms for efficient pathfinding on Helsinki’s street network.
   
 	![Animated gif](https://github.com/sampsaoinonen/TiRa-RouteOptimizer/blob/main/documentation/images/using_the_app.gif?raw=true)
 
+  
+	- **Key Features:**
+
+		-  Compares **A-star and Fringe Search algorithms** for pathfinding
+
+		- Uses **Helsinki’s street network data (OpenStreetMap via OSMnx)** for real-world accuracy
+
+		-  Optimized for **performance and efficiency**
+
+		-  Visual representation of paths with **interactive UI**
+
+  
+
+		The frontend is built with **JavaScript**, while **Python** handles the backend and core algorithms.
+		
 - 🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
   Exercises and materials from the Full Stack Open course offered by the University of Helsinki.
 
@@ -24,8 +39,26 @@ Here are some of my highlighted projects:
 
 	![Animated gif](https://github.com/sampsaoinonen/tsoha-martketplace/blob/main/screenshots/animated.gif?raw=true)
 
-- 📚 [**kurssiesitieto-ohtuprojekti**](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti)  
-  A comprehensive full-stack 🔴 **teamwork** project using React, Node.js, and SQL.
+- 📚 [**Kurssiesitieto - Course Information Platform**](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti)  
+  A **full-stack** 🔴 **teamwork** project built with **React, Node.js, and SQL**. The platform allows users to browse and search for courses, filter based on prerequisites, and view course dependencies in an interactive graph.
+
+	- **My contributions:**
+
+		- **Backend Development:** Developed the backend API, designed database models, and optimized SQL queries for better performance.
+
+		- **Frontend Development:** Implemented UI components for prerequisites, improved search/filter functionality, and enhanced state management.
+
+		- **Testing & Optimization:** Wrote unit and integration tests, refactored backend logic, and improved API response times.
+		
+		- **Documentation & Collaboration:** Wrote API documentation, reviewed pull requests, and contributed to task planning.
+
+  
+	- 🔗 **My activity in this project:**
+
+		- [Commits I made](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti/commits?author=sampsaoinonen)
+
+		- [Completed tasks assigned to me](https://github.com/Kurssiesitieto/kurssiesitieto-ohtuprojekti/issues?q=is:closed+assignee=sampsaoinonen)
+
 
 - 🕹️ [**Jake The Snake - Game**](https://github.com/sampsaoinonen/ot-harjoitustyo)  
   A Python-based Snake game built with the Pygame library.
@@ -86,4 +119,4 @@ ___
 
 ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)
 ![React Router](https://img.shields.io/static/v1?label=&message=React%20Router&color=CA4245&logo=reactrouter&logoColor=FFFFFF)
-![Machine Learning](https://img.shields.io/static/v1?label=&message=Matchematics%20For%20Machine%20Learning&color=F7931E&logo=python&logoColor=FFFFFF)
+![Machine Learning](https://img.shields.io/static/v1?label=&message=Mathematics%20For%20Machine%20Learning&color=F7931E&logo=python&logoColor=FFFFFF)
