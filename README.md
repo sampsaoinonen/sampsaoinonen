@@ -1,4 +1,5 @@
 
+
 # 👋Hi! 
 
 Nice to see you’re here to check out my coding work. This repository showcases some projects I’ve worked on, covering different technologies, frameworks, and problem-solving techniques.
@@ -29,7 +30,20 @@ ___
 	-	The frontend is built with **JavaScript**, while **Python** handles the backend and core algorithms.
 		
  🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
-  Exercises and materials from the Full Stack Open course offered by the University of Helsinki.
+  Exercises and materials from the [Full Stack Open](https://fullstackopen.com) course  offered by the University of Helsinki. 
+
+Key topics covered:
+
+-   Building single-page applications with React.
+    
+-   Developing RESTful APIs using Node.js and Express.
+  
+  - Testing with Cypress, Jest, React Testing Library... 
+    
+-   Managing application state with Redux.
+    
+-   Integrating MongoDB for database solutions.
+    
 
  🛒 [**2 Many Gittars - Martketplace**](https://github.com/sampsaoinonen/tsoha-martketplace)  
 A **web-based marketplace** built with **Python**, **Flask**, and **PostgreSQL**. Users can post and browse ads, upload images, send messages, and interact via comments. The app features authentication, user profiles, and admin controls. It is deployed on **Heroku** [**Here**](https://tsoha-2manygittars-332c1b1f9ef8.herokuapp.com/) .
