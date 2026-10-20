@@ -34,10 +34,10 @@ A data science project developed at Aalto University School of Business, focusin
 
 - **Key Features:**
   - Uses **real-world salary survey data** for data preparation and exploratory analysis
-  - Applies **predictive modeling** to estimate salaries based on experience, job role, seniority, and workplace characteristics
-  - Compares and evaluates models using **prediction error metrics**
-  - Examines **model performance and sensitivity** under different conditions
-  - Uses **Python and Jupyter Notebook** for data analysis, modeling, and visualization
+  - Implements and compares **Linear Regression, Ridge Regression, and Random Forest** models for salary prediction
+  - Evaluates model performance using **5-fold cross-validation, MAE, RMSE, and R²**
+  - Performs **hyperparameter tuning and sensitivity analysis** to assess model performance and robustness
+  - Uses **Python, pandas, scikit-learn, and Jupyter Notebook** for data analysis, modeling, and visualization
 		
  🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
   Exercises and materials from the [Full Stack Open](https://fullstackopen.com) course  offered by the University of Helsinki. 
