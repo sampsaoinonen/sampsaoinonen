@@ -29,15 +29,22 @@ ___
 
 	-	The frontend is built with **JavaScript**, while **Python** handles the backend and core algorithms.
 
+
  📊 [**Data-Science-For-Biz**](https://github.com/sampsaoinonen/Data-Science-For-Biz)  
 A data science project developed at Aalto University School of Business, focusing on predicting monthly salaries in the Finnish technology sector using the Koodiklinikka 2025 salary survey.
 
 - **Key Features:**
+  
   - Uses **real-world salary survey data** for data preparation and exploratory analysis
+
   - Implements and compares **Linear Regression, Ridge Regression, and Random Forest** models for salary prediction
+
   - Evaluates model performance using **5-fold cross-validation, MAE, RMSE, and R²**
+
   - Performs **hyperparameter tuning and sensitivity analysis** to assess model performance and robustness
+
   - Uses **Python, pandas, scikit-learn, and Jupyter Notebook** for data analysis, modeling, and visualization
+
 		
  🌐 [**FullStackOpen**](https://github.com/sampsaoinonen/FullStackOpen)  
   Exercises and materials from the [Full Stack Open](https://fullstackopen.com) course  offered by the University of Helsinki. 
